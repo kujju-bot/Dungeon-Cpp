@@ -1,20 +1,12 @@
-# Dungeon-Cpp
+# Dungeon++
 
-A C++ terminal-based RPG game.
+A terminal-based dungeon-crawling RPG written in C++.
 
-## Getting Started
-
-### Prerequisites
-
-- A C++ compiler (g++ or clang++)
-
-### Build & Run
+## Build
 
 ```bash
 g++ Dungeon++.cpp -o dungeon
 ./dungeon
 ```
 
-## About
-
-A simple dungeon-crawling RPG that runs entirely in the terminal.
+Requires a C++ compiler (g++ or clang++).
